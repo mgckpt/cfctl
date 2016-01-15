@@ -1,0 +1,6 @@
+syntax: glob
+
+__pycache__
+venv
+*.pyc
+src/cred.py
